@@ -27,6 +27,18 @@ header {
      justify-content: space-around;
 }
 
+.first {
+
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+     margin: 75px 0;
+}
+
+.second {
+
+   
+}
 
 
 
